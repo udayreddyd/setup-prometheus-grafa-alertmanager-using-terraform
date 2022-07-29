@@ -1,0 +1,23 @@
+#DB VCN ID
+ocidb_existing_vcn_id = "<VCN OCID>"
+
+#DB Compartment
+ocidb_compartment_id = "<Compartment OCID>"
+
+#DB Network Compartment
+#ocidb_network_compartment_id ="<Network Compartment OCID>"
+#DB System
+ocidb_dbsystem_id ="<OCID>"
+
+#Database
+ocidb_database_id = "<OCID>"
+
+#PDB Name
+ocidb_pdb_service_name = "PDB"
+
+#Provide DB user creds.
+oci_db_user = "sys"
+oci_db_password_ocid = "<OCID>"
+
+#VCN peering param for OCI DB
+ocidb_dns_subnet_cidr = "10.0.7.0/11"
